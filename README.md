@@ -1,2 +1,2 @@
 # gamerstop
-https://github.com/AnubhabPaul12/gamerstop/settings/pages
+https://anubhabpaul12.github.io/gamerstop/
